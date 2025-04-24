@@ -12,7 +12,7 @@
 Just download or clone the project, and open it in your preferred environment. No complex setup required!  
 
 ## 🔗 Live Demo  
-[Try Currency Converter Online](#) *(Replace with your actual demo link)*  
+[Try Currency Converter Online](#) *(https://bazalsarfraz786.github.io/Currency_Convertor/)*  
 
 ---
 ⭐ **Enjoying this tool?** Don't forget to star the repository!  
